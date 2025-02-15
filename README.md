@@ -4,7 +4,7 @@ Perkenalkan nama saya Findi Zhafirah.<br>
 
 Saya seorang Mahasiswa di Universitas Pertahanan RI, prodi Informatika.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/findizhafirah)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/findizhafirah)ku ya.
 
 <!--
 Here are some ideas to get you started:
