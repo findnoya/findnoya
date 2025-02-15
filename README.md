@@ -1,10 +1,13 @@
 ## Hi there 👋
 
+Perkenalkan nama saya Findi Zhafirah.<br>
+
+Saya seorang Mahasiswa di Universitas Pertahanan RI, prodi Informatika.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/findizhafirah)ku ya.
+
 <!--
-**findnoya/findnoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
